@@ -61,7 +61,7 @@ Ao criar um ticket, a API retornará um JSON no seguinte formato:
 	"id": "0faad1f7-6dd6-43b1-8fec-ff4b9f563a29",
 	"equipment": "Computador",
 	"description": "O computador fica reiniciando",
-	"user_name": "Vanessa",
+	"user_name": "Moisas",
 	"status": "open",
 	"created_at": "2025-04-04T01:30:03.174Z",
 	"updated_at": "2025-04-04T01:30:03.174Z"
