@@ -1,0 +1,16 @@
+{
+  "name": "suport-tickets",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tickets de suporte.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Moisas",
+  "license": "ISC",
+  "dependencies": {
+    "suport-tickets": "file:"
+  }
+}
